@@ -27,7 +27,7 @@ As an experienced developer I can be sure that whatever scheme they come up with
 
 The company is concerned about enviromental impact of their business and decided to implement an integration with a new service
 that provide digital invoice for their customers. To connect to that service we need to create a Invoice in json format with the following format
-
+```
 {
   "customerName": "client 1",
   "statement": {
@@ -47,3 +47,4 @@ that provide digital invoice for their customers. To connect to that service we 
     "creditsEarned": 20
   }
 }
+```
