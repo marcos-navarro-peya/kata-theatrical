@@ -1,4 +1,4 @@
-#Theatrical Players Refactoring Kata
+# Theatrical Players Refactoring Kata
 
 The first chapter of ['Refactoring' by Martin Fowler, 2nd Edition](https://www.thoughtworks.com/books/refactoring2) contains a worked example of this exercise, in javascript. That chapter is available to download for free. This repo contains the starting point for this exercise in several languages, with tests, so you can try it out for yourself.
 
@@ -9,7 +9,7 @@ are currently two kinds of plays that the company performs: tragedies and
 comedies. As well as providing a bill for the performance, the company gives its
 customers “volume credits” which they can use for discounts on future performances—think of it as a customer loyalty mechanism.
 
-##What you need to change
+## What you need to change
 
 ### 1st iteration
 
