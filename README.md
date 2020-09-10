@@ -1,7 +1,5 @@
 # Theatrical Players Refactoring Kata
 
-The first chapter of ['Refactoring' by Martin Fowler, 2nd Edition](https://www.thoughtworks.com/books/refactoring2) contains a worked example of this exercise, in javascript. That chapter is available to download for free. This repo contains the starting point for this exercise in several languages, with tests, so you can try it out for yourself.
-
 Image a company of theatrical players who go out to various events performing
 plays. Typically, a customer will request a few plays and the company charges
 them based on the size of the audience and the kind of play they perform. There
